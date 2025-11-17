@@ -1,4 +1,4 @@
-VEP_VERSION = 87.26
+VEP_VERSION = 105.0
 ROOT = /vep
 VEP = $(ROOT)/vep
 API = $(ROOT)/Bio
